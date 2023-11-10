@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently studying at **Van Lang University**
 
-- 💬 Ask me about **html,Css,reactJS**
+- 💬 Ask me about **html,Css,JS**
 
 - 📫 How to reach me **acebn02@gmail.com**
 
