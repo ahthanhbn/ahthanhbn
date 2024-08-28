@@ -3,14 +3,14 @@
 </a>
 
 <h1 align="center" style="font-family: 'Arial', sans-serif;" >Hi 👋, I'm Nguyen Ba Thanh</h1>
-<h2 align="center">👨‍💻 A Front-end Developer from Vietnamese 👨‍💻</h2>
+<h2 align="center">😎 A Front-end Developer from Vietnamese😎</h2>
 <br>
 <div style="text-align: justify;">
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 <p align="left"> <img width="150" src="https://komarev.com/ghpvc/?username=ahthanhbn&label=Profile%20views&color=0e75b6&style=flat" alt="ahthanhbn" /> </p>
 <br>
 
-- 😎 I'm 22 years old 
+- 😈 I'm 22 years old 
 
 - 👨‍🎓 I'm currently studying at **Van Lang University**
 
