@@ -33,8 +33,7 @@
 <p align="center">
 <a href="https://instagram.com/thanhyeii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thanhyeii" height="40" width="40" style= "background: linear-gradient(45deg, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D)" />@thanhyeii</a>
 &nbsp;
-<a href="https://www.facebook.com/ng.thanhanh1509" target="blank"><img src="https://img.shields.io/badge/Nguy%E1%BB%85n%20Thanh%20Anh-282C34?logo=facebook&logoColor=%231877F2
-" alt="Nguyễn Thanh Anh" height="40 /></a>
+<a href="https://www.facebook.com/ng.thanhanh1509" target="blank"> <span><img src="https://img.shields.io/badge/Nguy%E1%BB%85n%20Thanh%20Anh-282C34?logo=facebook&logoColor=%231877F2" alt="HTML5 logo" title="HTML5" height="30" /></span></a>
 </p>
 <br>
 
