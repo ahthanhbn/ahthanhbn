@@ -31,9 +31,9 @@
 <h2 align="center">🔗Connect with me🔗</h2>
 <br>
 <p align="center">
-<a href="https://instagram.com/thanhyeii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thanhyeii" title="@thanhyeii" height="50" width="50" /></a>
+<a href="https://instagram.com/thanhyeii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thanhyeii" height="40" width="40" style= "background: linear-gradient(45deg, #405DE6, #5851DB, #833AB4, #C13584, #E1306C, #FD1D1D)" />@thanhyeii</a>
 &nbsp;
-<a href="https://www.facebook.com/ng.thanhanh1509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nguyễn Thanh Anh" title="Nguyễn Thanh Anh" height="40" /></a>
+<a href="https://www.facebook.com/ng.thanhanh1509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nguyễn Thanh Anh" height="40 " width="40" style ="color: #1877F2;" />Nuyễn Thanh Anh</a>
 </p>
 <br>
 
