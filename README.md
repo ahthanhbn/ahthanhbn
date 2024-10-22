@@ -29,6 +29,7 @@
 
 
 <h2 align="center">🔗Connect with me🔗</h2>
+<br>
 <p align="center">
 <a href="https://instagram.com/thanhyeii" target="blank"><span><img src="https://img.shields.io/badge/%40thanhyeii-282C34?logo=Instagram&logoColor=45deg%2C%20%23405DE6%2C%20%235851DB%2C%20%23833AB4%2C%20%23C13584%2C%20%23E1306C%2C%20%23FD1D1D" alt="instagram logo" title="@thanhyeii" height="30" /></span></a>
 &nbsp;
