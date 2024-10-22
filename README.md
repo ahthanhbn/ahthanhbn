@@ -34,7 +34,6 @@
 &nbsp;
 <a href="https://www.facebook.com/ng.thanhanh1509" target="blank"> <span><img src="https://img.shields.io/badge/Nguy%E1%BB%85n%20Thanh%20Anh-282C34?logo=facebook&logoColor=%231877F2" alt="facebook logo" title="Nguyễn Thanh Anh" height="30" /></span></a>
 </p>
-<br>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
 <br>
