@@ -31,8 +31,7 @@
 <h2 align="center">🔗Connect with me🔗</h2>
 <br>
 <p align="center">
-<!-- <a href="https://instagram.com/thanhyeii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thanhyeii" height="50" width="50" /></a> -->
-<span><a href="https://instagram.com/thanhyeii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thanhyeii" title="@thanhyeii" height="40"/></a>Nguyen Thanh ANh</span>
+<a href="https://instagram.com/thanhyeii" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thanhyeii" title="@thanhyeii" height="50" width="50" /></a>
 &nbsp;
 <a href="https://www.facebook.com/ng.thanhanh1509" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="Nguyễn Thanh Anh" title="Nguyễn Thanh Anh" height="40" /></a>
 </p>
