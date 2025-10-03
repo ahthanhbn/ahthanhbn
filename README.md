@@ -34,7 +34,7 @@
 <a href="https://instagram.com/thanhyeii" target="blank"><span><img src="https://img.shields.io/badge/%40thanhyeii-282C34?logo=Instagram&logoColor=45deg%2C%20%23405DE6%2C%20%235851DB%2C%20%23833AB4%2C%20%23C13584%2C%20%23E1306C%2C%20%23FD1D1D" alt="instagram logo" title="@thanhyeii" height="30" /></span></a>
 &nbsp;
 <a href="https://www.facebook.com/ng.thanhanh1509" target="blank"> <span><img src="https://img.shields.io/badge/Nguy%E1%BB%85n%20Thanh%20Anh-282C34?logo=facebook&logoColor=%231877F2" alt="facebook logo" title="Nguyễn Thanh Anh" height="30" /></span></a>
-<a href="https://www.linkedin.com/in/ngbathanh1509" target="blank"> <span><img src="https://img.shields.io/badge/:badgeContent?logo=Linkedin&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fngbathanh1509%2F
+<a href="https://www.linkedin.com/in/ngbathanh1509" target="blank"> <span><img src="https://www.flaticon.com/free-icon/linkedin_3991775?term=linkedin&page=1&position=15&origin=search&related_id=3991775
 " alt="linkedin logo" title="Nguyễn Bá Thành" height="30" /></span></a>
 </p>
 
