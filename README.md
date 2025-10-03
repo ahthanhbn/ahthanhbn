@@ -57,8 +57,6 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=#4FC08D" alt="angular" title="Angular" height="30"/></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/AngularJS-282C34?logo=angular.js&logoColor=#4FC08D" alt="angularjs" title="AngularJS" height="40"/></span>
-&nbsp;
 <span><img src="https://img.shields.io/badge/NextJS-282C34?logo=next.js&logoColor=fff" alt="NextJS logo" title="NextJS" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="30" /></span>
@@ -67,7 +65,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=7952B3" alt="figma" title="Figma" height="30"/></span>
+<span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=ed73d0" alt="figma" title="Figma" height="30"/></span>
 &nbsp;
 
 <br>
