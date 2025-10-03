@@ -53,11 +53,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="30" /></span>
 &nbsp;
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" title="VueJS" height="30"/></span>
+<span><img src="https://img.shields.io/badge/VueJS-282C34?logo=vue&logoColor=#4FC08D" alt="vuejs" title="VueJS" height="30"/></span>
 &nbsp;
-<span><img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" title="Angular" height="30"/></span>
+<span><img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=#4FC08D" alt="angular" title="Angular" height="30"/></span>
 &nbsp;
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" title="AngularJS" height="40"/></span>
+<span><img src="https://img.shields.io/badge/AngularJS-282C34?logo=angularjs&logoColor=#4FC08D" alt="angularjs" title="AngularJS" height="40"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/NextJS-282C34?logo=next.js&logoColor=fff" alt="NextJS logo" title="NextJS" height="30" /></span>
 &nbsp;
@@ -65,9 +65,9 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/VS%20Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="30" /></span>
 &nbsp;
-<span><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" title="Bootstrap" width="40" height="40"/></span>
+<span><img src="https://img.shields.io/badge/Bootstrap-282C34?logo=bootstrap&logoColor=7952B3" alt="Bootstrap logo" title="Bootstrap" height="30" /></span>
 &nbsp;
-<span><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" title="Figma" height="30"/></span>
+<span><img src="https://img.shields.io/badge/Figma-282C34?logo=figma&logoColor=7952B3" alt="figma" title="Figma" height="30"/></span>
 &nbsp;
 
 <br>
