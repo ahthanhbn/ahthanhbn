@@ -53,11 +53,11 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="30" /></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/VueJS-282C34?logo=vue&logoColor=#4FC08D" alt="vuejs" title="VueJS" height="30"/></span>
+<span><img src="https://img.shields.io/badge/VueJS-282C34?logo=vue.js&logoColor=#4FC08D" alt="vuejs" title="VueJS" height="30"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/Angular-282C34?logo=angular&logoColor=#4FC08D" alt="angular" title="Angular" height="30"/></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/AngularJS-282C34?logo=angularjs&logoColor=#4FC08D" alt="angularjs" title="AngularJS" height="40"/></span>
+<span><img src="https://img.shields.io/badge/AngularJS-282C34?logo=angular.js&logoColor=#4FC08D" alt="angularjs" title="AngularJS" height="40"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/NextJS-282C34?logo=next.js&logoColor=fff" alt="NextJS logo" title="NextJS" height="30" /></span>
 &nbsp;
