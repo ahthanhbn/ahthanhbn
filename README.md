@@ -52,7 +52,7 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/NodeJS-282C34?logo=node.js&logoColor=ed73d0" alt="Nodejs logo" title="NodeJS" height="30"/></span>
 &nbsp;
-<span><img src="https://img.shields.io/badge/ExpressJS-282C34?logo=express.js&logoColor=ed73d0" alt="Expressjs logo" title="ExpressJS" height="30"/></span>
+<span><img src="https://img.shields.io/badge/ExpressJS-282C34?logo=express&logoColor=ed73d0" alt="Express logo" title="Express" height="30"/></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="30" /></span>
 &nbsp;
