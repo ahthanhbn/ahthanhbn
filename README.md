@@ -50,6 +50,10 @@
 &nbsp;
 <span><img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="30" /></span>
 &nbsp;
+<span><img src="https://img.shields.io/badge/NodeJS-282C34?logo=nodejs&logoColor=ed73d0" alt="nodejs" title="NodeJS" height="30"/></span>
+&nbsp;
+<span><img src="https://img.shields.io/badge/ExpressJS-282C34?logo=expressjs&logoColor=ed73d0" alt="expressjs" title="ExpressJS" height="30"/></span>
+&nbsp;
 <span><img src="https://img.shields.io/badge/TypeScript-282C34?logo=typescript&logoColor=3178C6" alt="TypeScript logo" title="TypeScript" height="30" /></span>
 &nbsp;
 <span><img src="https://img.shields.io/badge/ReactJS-282C34?logo=react&logoColor=61DAFB" alt="ReactJS logo" title="ReactJS" height="30" /></span>
